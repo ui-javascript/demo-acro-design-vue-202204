@@ -19,7 +19,7 @@
 </template>
 
 <script setup>
-const {ref} from "vue"
+import {ref} from "vue"
 const size = ref(0.5)
 </script>
 
