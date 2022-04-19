@@ -11,10 +11,7 @@ module.exports = {
     // 当页面超过1张时, 是否在顶部插入多页面导航
     // showNav: false,
     showNav: true,
-  
-    // entry: './__demo/demo*.js',
-    
-    entry: './__demo/*.js',
+      
+    entry: './_arco/*.js',
 
-    // entry: './_hooks/**/*.js',
 }
