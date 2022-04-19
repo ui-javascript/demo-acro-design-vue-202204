@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import App from './table-editable.vue'
+import App from './table-resize.vue'
 
 import ArcoVue from '@arco-design/web-vue';
 import '@arco-design/web-vue/dist/arco.css';
