@@ -12,6 +12,6 @@ module.exports = {
     // showNav: false,
     showNav: true,
       
-    entry: './_arco/*.js',
+    entry: './_arco-table/*.js',
 
 }

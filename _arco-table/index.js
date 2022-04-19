@@ -7,7 +7,8 @@ import '@arco-design/web-vue/dist/arco.css';
 const app = createApp(App);
 app.use(ArcoVue, {
     // 组件前缀
-    componentPrefix: ''
+    componentPrefix: '',
+    // size: 'large'
 });
 
 app.mount('#app');
