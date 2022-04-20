@@ -10,6 +10,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@form-create/arco-design": "^3.1.5",
     "ant-design-vue": "^3.1.0-rc.2",
     "core-js": "^3.8.3",
     "element-plus": "^2.1.4",
